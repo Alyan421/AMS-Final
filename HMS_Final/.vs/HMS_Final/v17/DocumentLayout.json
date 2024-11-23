@@ -1,7 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\musta\\source\\repos\\HMS_Final\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\entityframework\\amsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:entityframework\\amsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\userhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\userhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\hospitaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\hospitaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\hms_final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:hms_final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +79,163 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:53:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:52:41.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AMSDbContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\EntityFrameWork\\AMSDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork\\AMSDbContext.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\EntityFrameWork\\AMSDbContext.cs",
+              "RelativeToolTip": "EntityFrameWork\\AMSDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:30:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserHospital.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\UserHospital.cs",
+              "RelativeDocumentMoniker": "Models\\UserHospital.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\UserHospital.cs",
+              "RelativeToolTip": "Models\\UserHospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:54:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalDepartment.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\HospitalDepartment.cs",
+              "RelativeDocumentMoniker": "Models\\HospitalDepartment.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\HospitalDepartment.cs",
+              "RelativeToolTip": "Models\\HospitalDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:25:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:22:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "Models\\Hospital.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Hospital.cs",
+              "RelativeToolTip": "Models\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:19:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:16:12.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:14:17.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:14:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:13:53.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:13:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HMS_Final.http",
+              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\HMS_Final.http",
+              "RelativeDocumentMoniker": "HMS_Final.http",
+              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\HMS_Final.http",
+              "RelativeToolTip": "HMS_Final.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-23T09:00:56.684Z"
             }
           ]
         }
