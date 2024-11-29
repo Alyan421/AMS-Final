@@ -30,6 +30,9 @@ namespace HMS_Final.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("HospitalId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -40,7 +43,35 @@ namespace HMS_Final.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("HospitalId");
+
                     b.ToTable("Admins");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Appointment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("AppointmentDateTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ScheduleId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ScheduleId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Appointments");
                 });
 
             modelBuilder.Entity("HMS_Final.Models.City", b =>
@@ -56,8 +87,7 @@ namespace HMS_Final.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("nvarchar(150)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -76,8 +106,7 @@ namespace HMS_Final.Migrations
 
                     b.Property<string>("CountryName")
                         .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("nvarchar(150)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -94,12 +123,55 @@ namespace HMS_Final.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("nvarchar(150)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Departments");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Doctor", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("DateOfBirth")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DoctorName")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Doctors");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.DoctorHospital", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("DoctorId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("HospitalId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DoctorId");
+
+                    b.HasIndex("HospitalId");
+
+                    b.ToTable("DoctorHospitals");
                 });
 
             modelBuilder.Entity("HMS_Final.Models.Hospital", b =>
@@ -109,9 +181,6 @@ namespace HMS_Final.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("AdminId")
-                        .HasColumnType("int");
 
                     b.Property<int>("CityId")
                         .HasColumnType("int");
@@ -125,8 +194,6 @@ namespace HMS_Final.Migrations
                         .HasColumnType("nvarchar(200)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("AdminId");
 
                     b.HasIndex("CityId");
 
@@ -146,6 +213,37 @@ namespace HMS_Final.Migrations
                     b.HasIndex("DepartmentId");
 
                     b.ToTable("HospitalDepartments");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Schedule", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("ConsultationDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("ConsultationDay")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("ConsultationTime")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<int>("DoctorId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DoctorId");
+
+                    b.ToTable("Schedules");
                 });
 
             modelBuilder.Entity("HMS_Final.Models.User", b =>
@@ -189,20 +287,55 @@ namespace HMS_Final.Migrations
 
             modelBuilder.Entity("HMS_Final.Models.UserHospital", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("HospitalId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Id")
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("UserId", "HospitalId");
+                    b.HasKey("Id");
 
                     b.HasIndex("HospitalId");
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("UserHospitals");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Admin", b =>
+                {
+                    b.HasOne("HMS_Final.Models.Hospital", "Hospital")
+                        .WithMany("Admins")
+                        .HasForeignKey("HospitalId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Hospital");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Appointment", b =>
+                {
+                    b.HasOne("HMS_Final.Models.Schedule", "Schedule")
+                        .WithMany("Appointments")
+                        .HasForeignKey("ScheduleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("HMS_Final.Models.User", "User")
+                        .WithMany("Appointments")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Schedule");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("HMS_Final.Models.City", b =>
@@ -216,21 +349,32 @@ namespace HMS_Final.Migrations
                     b.Navigation("Country");
                 });
 
-            modelBuilder.Entity("HMS_Final.Models.Hospital", b =>
+            modelBuilder.Entity("HMS_Final.Models.DoctorHospital", b =>
                 {
-                    b.HasOne("HMS_Final.Models.Admin", "Admin")
-                        .WithMany("Hospitals")
-                        .HasForeignKey("AdminId")
+                    b.HasOne("HMS_Final.Models.Doctor", "Doctor")
+                        .WithMany("DoctorHospitals")
+                        .HasForeignKey("DoctorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("HMS_Final.Models.Hospital", "Hospital")
+                        .WithMany("DoctorHospitals")
+                        .HasForeignKey("HospitalId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Doctor");
+
+                    b.Navigation("Hospital");
+                });
+
+            modelBuilder.Entity("HMS_Final.Models.Hospital", b =>
+                {
                     b.HasOne("HMS_Final.Models.City", "City")
                         .WithMany("Hospitals")
                         .HasForeignKey("CityId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Admin");
 
                     b.Navigation("City");
                 });
@@ -254,6 +398,17 @@ namespace HMS_Final.Migrations
                     b.Navigation("Hospital");
                 });
 
+            modelBuilder.Entity("HMS_Final.Models.Schedule", b =>
+                {
+                    b.HasOne("HMS_Final.Models.Doctor", "Doctor")
+                        .WithMany("Schedules")
+                        .HasForeignKey("DoctorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Doctor");
+                });
+
             modelBuilder.Entity("HMS_Final.Models.UserHospital", b =>
                 {
                     b.HasOne("HMS_Final.Models.Hospital", "Hospital")
@@ -273,11 +428,6 @@ namespace HMS_Final.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("HMS_Final.Models.Admin", b =>
-                {
-                    b.Navigation("Hospitals");
-                });
-
             modelBuilder.Entity("HMS_Final.Models.City", b =>
                 {
                     b.Navigation("Hospitals");
@@ -293,15 +443,33 @@ namespace HMS_Final.Migrations
                     b.Navigation("HospitalDepartments");
                 });
 
+            modelBuilder.Entity("HMS_Final.Models.Doctor", b =>
+                {
+                    b.Navigation("DoctorHospitals");
+
+                    b.Navigation("Schedules");
+                });
+
             modelBuilder.Entity("HMS_Final.Models.Hospital", b =>
                 {
+                    b.Navigation("Admins");
+
+                    b.Navigation("DoctorHospitals");
+
                     b.Navigation("HospitalDepartments");
 
                     b.Navigation("UserHospitals");
                 });
 
+            modelBuilder.Entity("HMS_Final.Models.Schedule", b =>
+                {
+                    b.Navigation("Appointments");
+                });
+
             modelBuilder.Entity("HMS_Final.Models.User", b =>
                 {
+                    b.Navigation("Appointments");
+
                     b.Navigation("UserHospitals");
                 });
 #pragma warning restore 612, 618

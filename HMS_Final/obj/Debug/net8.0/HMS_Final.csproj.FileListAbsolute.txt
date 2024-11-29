@@ -1,5 +1,3 @@
-D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\appsettings.Development.json
-D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\appsettings.json
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.exe
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.deps.json
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.runtimeconfig.json
@@ -143,3 +141,9 @@ D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Deb
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\AutoMapper.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\appsettings.json

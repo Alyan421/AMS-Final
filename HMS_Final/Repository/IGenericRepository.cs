@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Storage;
+using System.Linq.Expressions;
 
 namespace HMS_Final.Repository
 {
@@ -11,5 +12,7 @@ namespace HMS_Final.Repository
         Task DeleteAsync(T entity);
         Task SaveChangesAsync();
         IDbContextTransaction BeginTransaction();
+        public IQueryable<T> GetDbSet();
+
     }
 }

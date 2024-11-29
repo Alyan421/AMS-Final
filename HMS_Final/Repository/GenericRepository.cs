@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
+using System.Linq.Expressions;
 
 namespace HMS_Final.Repository
 {
@@ -51,5 +52,20 @@ namespace HMS_Final.Repository
         {
             return _context.Database.BeginTransaction(); // EF Core transaction
         }
+
+        public IQueryable<T> GetDbSet()
+        {
+            return _context.Set<T>();
+        }
+
+        //public async Task<T> GetByNameAsync(string name, Expression<Func<T, string>> nameSelector)
+        //{
+        //    if (string.IsNullOrWhiteSpace(name))
+        //        throw new ArgumentNullException(nameof(name), "Name cannot be null or empty.");
+
+        //    return await _dbSet.FirstOrDefaultAsync(e => nameSelector.Compile()(e) == name);
+        //}
+
+
     }
 }
