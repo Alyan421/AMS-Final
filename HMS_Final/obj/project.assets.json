@@ -4406,24 +4406,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\musta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\HMS_Final.csproj",
+      "projectUniqueName": "C:\\AMS-Final\\HMS_Final\\HMS_Final.csproj",
       "projectName": "HMS_Final",
-      "projectPath": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\HMS_Final.csproj",
-      "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\obj\\",
+      "projectPath": "C:\\AMS-Final\\HMS_Final\\HMS_Final.csproj",
+      "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
+      "outputPath": "C:\\AMS-Final\\HMS_Final\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4431,7 +4426,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4511,7 +4505,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

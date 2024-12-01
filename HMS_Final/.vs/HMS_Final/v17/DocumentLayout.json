@@ -1,101 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\",
+  "WorkspaceRootPath": "C:\\AMS-Final\\HMS_Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\departments\\dto\\getalldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\departments\\dto\\getalldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\departments\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\departments\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\departments\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\hospitals\\hospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\hospitals\\hospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\hospitals\\hospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\doctors\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\doctors\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\doctors\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\hospitals\\dto\\updatehospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\hospitals\\dto\\updatehospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\hospitals\\dto\\updatehospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\hospitals\\dto\\createhospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\hospitals\\dto\\createhospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\hospitals\\dto\\createhospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\hospitals\\hospitalautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\hospitals\\hospitalautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\hospitals\\hospitalautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\hospitals\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\hospitals\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\hospitals\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\hospitals\\ihospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\hospitals\\ihospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\hospitals\\ihospitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\hospitals\\hospitaldoctordto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\hospitals\\hospitaldoctordto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\hospitals\\hospitaldoctordto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\hospitals\\hospitaldepartmentdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\hospitals\\hospitaldepartmentdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\hospitals\\hospitaldepartmentdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\schdeulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\schdeulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\schdeulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\schedules\\schedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\schedules\\schedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\schedules\\schedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\manager\\schedules\\ischedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\manager\\schedules\\ischedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:manager\\schedules\\ischedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\scheduleautomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\scheduleautomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\scheduleautomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\dto\\bookscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\dto\\bookscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\dto\\bookscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\dto\\createschdeuledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\dto\\createschdeuledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\dto\\createschdeuledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\dto\\updatescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\dto\\updatescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\dto\\updatescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\ischedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\ischedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\ischedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\dto\\getallschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\dto\\getallschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\dto\\getallschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\controllers\\schedules\\dto\\getschdeulebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\controllers\\schedules\\dto\\getschdeulebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:controllers\\schedules\\dto\\getschdeulebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|d:\\desktop\\computer science\\backend developement\\api\\ams-final\\hms_final\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|c:\\ams-final\\hms_final\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C303E211-C3AD-45AB-BED1-6B4359A802F9}|HMS_Final.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,24 +110,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Program.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Program.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCsAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T09:50:53.621Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Departments\\DTO\\GetAllDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Controllers\\Departments\\DTO\\GetAllDepartmentDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Departments\\DTO\\GetAllDepartmentDTO.cs",
+              "RelativeToolTip": "Controllers\\Departments\\DTO\\GetAllDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:04:18.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -135,54 +152,27 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Departments\\DepartmentManager.cs",
-              "RelativeDocumentMoniker": "Manager\\Departments\\DepartmentManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Departments\\DepartmentManager.cs",
-              "RelativeToolTip": "Manager\\Departments\\DepartmentManager.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAwwJMAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:42:53.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateHospitalDTO.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
-              "RelativeDocumentMoniker": "Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
-              "RelativeToolTip": "Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:05:37.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreateHospitalDTO.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
               "RelativeDocumentMoniker": "Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
               "RelativeToolTip": "Controllers\\Hospitals\\DTO\\CreateHospitalDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:05:27.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:05:27.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IHospitalManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\IHospitalManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\IHospitalManager.cs",
               "RelativeDocumentMoniker": "Manager\\Hospitals\\IHospitalManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\IHospitalManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\IHospitalManager.cs",
               "RelativeToolTip": "Manager\\Hospitals\\IHospitalManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HospitalDoctorDTO2.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDoctorDTO2.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDoctorDTO2.cs",
               "RelativeDocumentMoniker": "Manager\\Hospitals\\HospitalDoctorDTO2.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDoctorDTO2.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDoctorDTO2.cs",
               "RelativeToolTip": "Manager\\Hospitals\\HospitalDoctorDTO2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,86 +192,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HospitalAutoMapper.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalAutoMapper.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalAutoMapper.cs",
               "RelativeDocumentMoniker": "Controllers\\Hospitals\\HospitalAutoMapper.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalAutoMapper.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalAutoMapper.cs",
               "RelativeToolTip": "Controllers\\Hospitals\\HospitalAutoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:29:32.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T10:29:32.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HospitalController.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Hospitals\\HospitalController.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalController.cs",
-              "RelativeToolTip": "Controllers\\Hospitals\\HospitalController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:29:30.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HospitalDepartmentDTO1.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
-              "RelativeDocumentMoniker": "Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
-              "RelativeToolTip": "Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:27:03.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HospitalManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalManager.cs",
-              "RelativeDocumentMoniker": "Manager\\Hospitals\\HospitalManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalManager.cs",
-              "RelativeToolTip": "Manager\\Hospitals\\HospitalManager.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAcwMYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:25:43.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Doctors\\DoctorManager.cs",
-              "RelativeDocumentMoniker": "Manager\\Doctors\\DoctorManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Doctors\\DoctorManager.cs",
-              "RelativeToolTip": "Manager\\Doctors\\DoctorManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:24:30.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ScheduleAutoMapping.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\ScheduleAutoMapping.cs",
-              "RelativeDocumentMoniker": "Controllers\\Schedules\\ScheduleAutoMapping.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\ScheduleAutoMapping.cs",
-              "RelativeToolTip": "Controllers\\Schedules\\ScheduleAutoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:09:50.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\appsettings.json",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\appsettings.json",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -290,24 +217,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SchdeuleController.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\SchdeuleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\Schedules\\SchdeuleController.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\SchdeuleController.cs",
-              "RelativeToolTip": "Controllers\\Schedules\\SchdeuleController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwHIAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UpdateHospitalDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
+              "RelativeDocumentMoniker": "Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
+              "RelativeToolTip": "Controllers\\Hospitals\\DTO\\UpdateHospitalDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:07:01.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:05:37.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
+              "Title": "DepartmentManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Departments\\DepartmentManager.cs",
+              "RelativeDocumentMoniker": "Manager\\Departments\\DepartmentManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Departments\\DepartmentManager.cs",
+              "RelativeToolTip": "Manager\\Departments\\DepartmentManager.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwJMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:42:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Hospitals\\HospitalController.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Hospitals\\HospitalController.cs",
+              "RelativeToolTip": "Controllers\\Hospitals\\HospitalController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:29:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HospitalDepartmentDTO1.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
+              "RelativeDocumentMoniker": "Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
+              "RelativeToolTip": "Manager\\Hospitals\\HospitalDepartmentDTO1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:27:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalManager.cs",
+              "RelativeDocumentMoniker": "Manager\\Hospitals\\HospitalManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Hospitals\\HospitalManager.cs",
+              "RelativeToolTip": "Manager\\Hospitals\\HospitalManager.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAcwMYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:25:43.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Doctors\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "Manager\\Doctors\\DoctorManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Doctors\\DoctorManager.cs",
+              "RelativeToolTip": "Manager\\Doctors\\DoctorManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:24:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScheduleAutoMapping.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\ScheduleAutoMapping.cs",
+              "RelativeDocumentMoniker": "Controllers\\Schedules\\ScheduleAutoMapping.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\ScheduleAutoMapping.cs",
+              "RelativeToolTip": "Controllers\\Schedules\\ScheduleAutoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:09:50.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SchdeuleController.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\SchdeuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Schedules\\SchdeuleController.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\SchdeuleController.cs",
+              "RelativeToolTip": "Controllers\\Schedules\\SchdeuleController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwHIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:07:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "IScheduleController.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\IScheduleController.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\IScheduleController.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\IScheduleController.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\IScheduleController.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\IScheduleController.cs",
               "RelativeToolTip": "Controllers\\Schedules\\IScheduleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookScheduleDTO.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
               "RelativeToolTip": "Controllers\\Schedules\\DTO\\BookScheduleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "GetSchdeuleById.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
               "RelativeToolTip": "Controllers\\Schedules\\DTO\\GetSchdeuleById.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GetAllSchedule.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
               "RelativeToolTip": "Controllers\\Schedules\\DTO\\GetAllSchedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "UpdateScheduleDTO.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
               "RelativeToolTip": "Controllers\\Schedules\\DTO\\UpdateScheduleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,11 +373,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateSchdeuleDTO.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
               "RelativeDocumentMoniker": "Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
               "RelativeToolTip": "Controllers\\Schedules\\DTO\\CreateSchdeuleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,11 +385,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ScheduleManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Schedules\\ScheduleManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Schedules\\ScheduleManager.cs",
               "RelativeDocumentMoniker": "Manager\\Schedules\\ScheduleManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Schedules\\ScheduleManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Schedules\\ScheduleManager.cs",
               "RelativeToolTip": "Manager\\Schedules\\ScheduleManager.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAlwJ0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IScheduleManager.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Schedules\\IScheduleManager.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Manager\\Schedules\\IScheduleManager.cs",
               "RelativeDocumentMoniker": "Manager\\Schedules\\IScheduleManager.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Manager\\Schedules\\IScheduleManager.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Manager\\Schedules\\IScheduleManager.cs",
               "RelativeToolTip": "Manager\\Schedules\\IScheduleManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Appointment.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Appointment.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Models\\Appointment.cs",
               "RelativeToolTip": "Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Schedule.cs",
-              "DocumentMoniker": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Schedule.cs",
+              "DocumentMoniker": "C:\\AMS-Final\\HMS_Final\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
-              "ToolTip": "D:\\Desktop\\computer science\\Backend Developement\\API\\AMS-Final\\HMS_Final\\Models\\Schedule.cs",
+              "ToolTip": "C:\\AMS-Final\\HMS_Final\\Models\\Schedule.cs",
               "RelativeToolTip": "Models\\Schedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
